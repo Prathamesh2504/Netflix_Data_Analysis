@@ -28,5 +28,3 @@ This project explores the Netflix Movies and TV Shows dataset to uncover trends,
 - 🕓 **Monthly peak:** July and December
 
 ➡️ See the full analysis in the notebook and PDF report below.
-
-    └── netflix_titles.csv          # Raw dataset (optional, link or ignore if large)
